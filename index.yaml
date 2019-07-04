@@ -3,11 +3,11 @@ entries:
   trafficmgthelm:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-07-04T14:48:48.695119482+02:00
+    created: 2019-07-04T16:35:09.141692255+02:00
     description: A Helm chart for Traffic Management Multi Cloud Application V1
-    digest: 4049bb72f8700246ca3510423c76bc59a902e7b2c03d92630998d0dfbe1f0320
+    digest: 0529945f9aab3b13d3c5e9cdbe41f959365c473dc6ac3b7d65120e8347e2feba
     name: trafficmgthelm
     urls:
     - https://jcresp.github.io/helm-trafficmgt/trafficmgthelm-0.1.0.tgz
     version: 0.1.0
-generated: 2019-07-04T14:48:48.694601725+02:00
+generated: 2019-07-04T16:35:09.138876249+02:00
